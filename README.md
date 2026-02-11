@@ -1,14 +1,3 @@
-#  Azkar Islam
-
-Azkar Islam est une application mobile islamique conçue pour accompagner les musulmans dans leur pratique religieuse quotidienne.  
-Elle regroupe les azkar, le tasbih numérique, le Coran, les hadiths authentiques et les 99 noms d’Allah dans une interface moderne, épurée et respectueuse.
-
-##  Technologies
-- swuif
-- Données locales (JSONe)
-- iOS
-
-
 
 
 
