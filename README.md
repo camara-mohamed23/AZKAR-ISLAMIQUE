@@ -26,11 +26,17 @@ Faciliter la pratique spirituelle quotidienne grâce à des outils modernes, acc
 
 
 
-<img width="1792" height="1120" alt="Capture d’écran 2026-01-08 à 14 25 34" src="https://github.com/user-attachments/assets/c447e579-8ab4-4ec0-b6d6-108219d9149d" />
-<img width="1792" height="1120" alt="Capture d’écran 2026-01-08 à 14 25 34" src="https://github.com/user-attachments/assets/7310baeb-4311-4b06-9831-5202a767de45" />
-<img width="1792" height="1120" alt="Capture d’écran 2026-01-08 à 14 25 41" src="https://github.com/user-attachments/assets/86b29677-81b4-4884-8edb-5202da0c131d" />
-<img width="1792" height="1120" alt="Capture d’écran 2026-01-08 à 14 25 48" src="https://github.com/user-attachments/assets/d4c8f253-dffe-43fd-bd28-7e1aef1df348" />
-<img width="1792" height="1120" alt="Capture d’écran 2026-01-08 à 14 25 56" src="https://github.com/user-attachments/assets/77ea5ba3-933e-472d-a3d3-cb9aaeaba394" />
-<img width="1792" height="1120" alt="Capture d’écran 2026-01-08 à 14 26 18" src="https://github.com/user-attachments/assets/462c5bfb-b6a7-4125-853b-ccd7e98e7a59" />
-<img width="1792" height="1120" alt="Capture d’écran 2026-01-08 à 14 26 35" src="https://github.com/user-attachments/assets/25f7aa50-75c5-4c59-9d81-185af55e9193" />
-<img width="1792" height="1120" alt="Capture d’écran 2026-01-08 à 14 26 46" src="https://github.com/user-attachments/assets/2a1ea63d-30c1-4457-83f3-56dacb7bdd88" />
+<img width="1792" height="1120" alt="Capture d’écran 2026-01-21 à 23 38 45" src="https://github.com/user-attachments/assets/65c8558f-dcf4-46e4-9294-a8779189cf16" />
+
+<img width="1792" height="1120" alt="Capture d’écran 2026-01-21 à 23 36 49" src="https://github.com/user-attachments/assets/e144af99-6433-4c5d-92dd-2d07eeb8cba8" />
+
+<img width="1792" height="1120" alt="Capture d’écran 2026-01-21 à 23 37 47" src="https://github.com/user-attachments/assets/e65e80a5-0db1-4f13-bc93-74a2cce79b0a" />
+
+
+<img width="1792" height="1120" alt="Capture d’écran 2026-01-21 à 23 37 55" src="https://github.com/user-attachments/assets/c01673a0-e3a6-4a70-9321-578519f8a100" />
+
+<img width="1792" height="1120" alt="Capture d’écran 2026-01-21 à 23 38 04" src="https://github.com/user-attachments/assets/7daf1be8-ef6e-4292-8cc5-22c01dc3b159" />
+
+<img width="1792" height="1120" alt="Capture d’écran 2026-01-21 à 23 38 45" src="https://github.com/user-attachments/assets/02fb3a43-a0d4-415d-9c4f-d7135872258a" />
+
+<img width="1792" height="1120" alt="Capture d’écran 2026-01-21 à 23 38 13" src="https://github.com/user-attachments/assets/2d2a4782-398d-4a6a-96ea-92aa1ef17ac7" />
